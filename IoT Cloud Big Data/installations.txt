@@ -1,0 +1,53 @@
+Python :
+
+https://phoenixnap.com/kb/how-to-install-python-3-ubuntu
+
+MQTT :
+
+https://physionet.org/content/gaitpdb/1.0.0/
+
+https://docs.google.com/document/d/1zaUKFljGJCstWqU7TduFrLHpF5J8P0u-/edit
+
+XMPP :
+
+https://hostnextra.medium.com/how-to-install-openfire-xmpp-server-on-ubuntu-13a5ef1ae374
+
+RabbitMQ :
+
+https://www.rabbitmq.com/docs/install-debian
+
+Flask :
+
+https://linuxize.com/post/how-to-install-flask-on-ubuntu-20-04/
+
+Kafka :
+
+https://kafka.apache.org/quickstart
+
+MongoDB :
+
+https://www.cherryservers.com/blog/install-mongodb-ubuntu-22-04
+
+Cassandra :
+
+https://cassandra.apache.org/doc/stable/cassandra/getting_started/installing.html
+
+ElasticSearch :
+
+https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html
+
+Neo4j :
+
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-neo4j-on-ubuntu-20-04
+
+Hadoop :
+
+https://tecadmin.net/how-to-install-apache-hadoop-on-ubuntu-22-04/
+
+Spark :
+
+https://www.virtono.com/community/tutorial-how-to/how-to-install-apache-spark-on-ubuntu-22-04-and-centos/
+
+Kibana :
+
+https://www.elastic.co/guide/en/kibana/current/deb.html
